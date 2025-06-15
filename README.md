@@ -24,16 +24,3 @@ Welcome to my **Data Science learning journey** — a structured, hands-on path 
 . . .
 ---
 
-## 🗂️ Repository Structure
-
-Data-Science-Journey/
-├── journey-log/                # Daily progress log
-│   ├── day1.md
-│   ├── day2.md
-│   └── ...
-├── 01-python-for-data-science/
-│   ├── ...
-│   └── README.md
-├── ...
-├── projects/
-└── README.md

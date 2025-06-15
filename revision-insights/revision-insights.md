@@ -1,0 +1,1 @@
+* Started using if __name__ == '__main__' for testable Python scripts from Q8 onward

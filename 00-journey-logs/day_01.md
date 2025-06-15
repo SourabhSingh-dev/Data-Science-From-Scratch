@@ -6,9 +6,9 @@
 
 ## ✅ What I did today:
 
-* 📌 **Topic Studied:** Python Functions & Inbuilt Data Structures (List, Dict, Tuple)
+* 📌 **Topic Studied:** Python Functions, Inbuilt Data Structures & Modules
 
-* 📘 **Resources:** Krish Naik’s Data Science Udemy  Course (Section 6 & 7)
+* 📘 **Resources:** Krish Naik’s Data Science Udemy Course (Sections 6, 7, and 8)
 
 * 💻 **Problems Solved:**
 
@@ -28,15 +28,15 @@
 
 ## 🔄 Next Up:
 
-* Begin Section 8: Importing Creating modules and packages.
-* Review any concepts marked in `to-revisit.md`
-* Begin preparing for mini project or real-world application
+* Begin Section 9: File Handling (with proper notes)
+* Resume DSA (GCD, LCM, etc.)
+* Begin daily DSA+DS revision cycle
 
 ---
 
 ## 📝 Notes & Reflections:
 
 * Started using `if __name__ == "__main__"` for modular, testable Python code
-* Created a dedicated `betterways` folder for cleaner code organization
+* Created a dedicated `betterways/` folder for cleaner code organization
 * Practicing discipline by avoiding unnecessary pushes of trivial questions
-* Maintaining professional folder structure and log flow
+* Completed Section 8 (Modules, Standard Library usage, Import system) with full clarity

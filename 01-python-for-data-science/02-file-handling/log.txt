@@ -1,0 +1,3 @@
+This is the log file. Will use the append mode here
+
+This text is due to Append Operation

@@ -1,0 +1,2 @@
+this is the source file
+will be copied in destination.txt

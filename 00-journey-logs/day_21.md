@@ -1,4 +1,4 @@
-# 🗓️ Day 21 – 15/09/2025  
+# 🗓️ Day 14 – 29/08/2025  
 
 ### 📍 Status: ✅ Completed  
 
@@ -7,33 +7,33 @@
 ## ✅ What I did today:  
 
 ### 📌 Topics Reviewed & Practiced:  
-- 📊 **Linear Regression**  
-  - Implemented code for **Simple Linear Regression** from scratch (using Python + NumPy)  
-  - Covered ~ **2/3 of the mathematical formulation**.
-  - Verified results by plotting regression line vs data points  
+- 📊 **Multiple Linear Regression**  
+  - Implemented code for **Multiple Linear Regression** from scratch (using Python + NumPy)  
+  - Covered ~ **2/3 of the mathematical formulation**)  
+  - Verified results by plotting predicted values vs actual data points  
 
 ---
 
 ## 🧩 Practice & Execution:  
 - Wrote Python code for:  
-  - Hypothesis function `y = mx + c`  
-- Tested model on small synthetic dataset  
+  - Hypothesis function `y = Xβ + ε`  
+- Tested model on small synthetic dataset with multiple features  
 
 ---
 
 ## 📘 Resources Used:  
 - 📄 My Linear Regression notes (math + code)  
-- 🔗 YT videos on Linear Regression math intuition  
+- 🔗 YT videos on Multiple Linear Regression (math intuition)  
 - 🧪 Jupyter Notebook for experiments  
 
 ---
 
 ## 🔄 Next Up:  
-- Complete **remaining mathematical formulation** (normal equation, R² metric)  
+- Complete **remaining mathematical formulation** (Normal Equation, R² metric)  
 - Learn **how to effectively use ChatGPT in Data Science** (debugging, explanations, code optimization, quick references)  
 
 ---
 
 ## 📝 Reflections:  
-- Coding linear regression manually gave deeper understanding of each component  
-- Excited to see how ChatGPT can act as a **coding + math assistant** in the workflow  
+- Implementing **multiple regression** clarified the difference between scalar and vectorized approaches  
+- Excited to integrate ChatGPT as a **coding + math assistant** in my DS workflow  
